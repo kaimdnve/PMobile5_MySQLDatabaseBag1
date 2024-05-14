@@ -1,6 +1,6 @@
 <?php
     $userName = "";
-    $password = "t";
+    $password = "";
     $database = "db_akademik";
     $con = new mysqli("localhost", $userName, $password, $database);
 ?>
